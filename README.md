@@ -6,7 +6,7 @@
 -----
 <h2><p align="center">🖥️Gerado de Hash🖥️</p></h2>
 
-- Linux ( Linux...) 
+- Linux ( Ubunto...) 
   ```
   git clone https://github.com/SlimPython3/geradoHash.git
   cd geradoHash
