@@ -35,4 +35,4 @@
 <br><br>
 
 ## <h2><p align="center">✏️Author✏️</p></h2>
-* **Slim** - [Github](https://github.com/SlimPython3)
+* **Sl1mC0d3r** - [Github](https://github.com/SlimPython3)
