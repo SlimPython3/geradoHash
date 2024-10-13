@@ -10,7 +10,7 @@ try:
 		1) md5
 		2) sha1
 
-	"""))
+"""))
 	if menu not in [1,2]:
 		print("Informe uma das Opçoes :")
 	elif menu == 1:
@@ -19,6 +19,6 @@ try:
 	else:
 		txtencriptado = hashlib.sha1(txt.encode('utf-8'))
 		print("A Hash Gerada e: ",txtencriptado.hexdigest())
-except Exception as erro:
-		print(f"Você não informou uma das opções")
+except:
+	print("Você não informou uma das opções de hash.")
 
